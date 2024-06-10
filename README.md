@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Kulsoom Zaidi aka Ziddikool
-- A DevOps engineer with a keen interest in Python web development and automation.
+-  A DevOps engineer with a keen interest in Python web development and automation.
+-  Focused on creating seamless development pipelines and automating cloud infrastructure. 
+-  Python development allows me to craft custom solutions and contribute to innovative projects.
 -  I believe in the power of efficient workflows and clean code to drive innovation.
 - 👀 I’m interested in open-source DevOps and Python projects.
 - 🌱 I’m currently exploring new ways to integrate DevOps practices in Python web projects.
